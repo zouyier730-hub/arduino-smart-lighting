@@ -87,3 +87,10 @@ I = 1.32 / 220 = 0.006A = 6mA
 使用Arduino数字引脚控制LED。
 
 继续开发智能灯光控制系统。
+
+## 9. Experiment Screenshot（实验截图）
+
+The following image shows the LED circuit and the
+measured voltage across the 220-ohm resistor.
+
+![LED Resistor Voltage Measurement](../hardware/led_resistor_voltage.png)
